@@ -5,7 +5,7 @@ class Main {
     int i = 1;
     int x = 8;
 
-    while(i <= 100){
+    while(i <= 1000){
       System.out.println(x * i);
       i++;
 
